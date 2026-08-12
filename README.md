@@ -55,6 +55,8 @@ These fields were defined in the project requirements for creating a comprehensi
 
 Data Preparation Process
 
+
+
 Raw Data from Multiple Sources
               ↓
        Data Exploration
@@ -121,6 +123,8 @@ Job Field
 Job Title
 These filters allow users to explore the job market from different perspectives.
 For example:
+
+
 Select Country
       ↓
 Select Year
@@ -218,6 +222,8 @@ Microsoft Power BI
 
 Main Analysis Areas
 
+
+
 Hiring Trends
      ↓
 Job Types
@@ -229,6 +235,7 @@ Companies
 Job Fields
      ↓
 Job Skills
+
 
 👨‍💻 Author
 Aayush Chaudhary
