@@ -160,8 +160,9 @@ What skills are most frequently required?
 What skills should candidates focus on developing?
 
 📷 Dashboard Preview
-https://github.com/AayushChaudhary2026/DATA_DOMAIN_JOB_PROJECT/blob/main/Data_Domain_Job_Part-1.png
-https://github.com/AayushChaudhary2026/DATA_DOMAIN_JOB_PROJECT/blob/main/Data_Domain_Job_Part-2.png
+<img src="Data_Domain_Job_Part-1.png" width="100%">
+<img src="Data_Domain_Job_Part-2.png" width="100%">
+
 
 🧮 Power BI & DAX
 
